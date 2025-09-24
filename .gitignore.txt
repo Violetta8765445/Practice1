@@ -1,0 +1,32 @@
+# Logs
+logs/
+*.log
+
+# Dependency directories
+node_modules/
+vendor/
+
+# Build output
+dist/
+build/
+*.o
+*.obj
+*.exe
+*.dll
+
+# Environment variables
+.env
+.env.*
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+temp/
